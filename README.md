@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamia-x5&label=Profile%20views&color=0e75b6&style=flat" alt="lamia-x5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamia-x5" alt="lamia-x5" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/l_5xr" target="blank"><img src="https://img.shields.io/twitter/follow/l_5xr?logo=twitter&style=for-the-badge" alt="l_5xr" /></a> </p>
+
 
 - 🌍 I'm based in **KSA , Riyadh**
-
-- 🧠 I’m currently learning **Ux/UI**
 
 - 📄 Know about my experiences [here](www.linkedin.com/in/lamia-abdullah9)
 
@@ -19,7 +16,6 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://twitter.com/l_5xr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l_5xr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lamia-abdullah9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lamia-abdullah9" height="30" width="40" /></a>
 </p>
 
